@@ -1,9 +1,6 @@
 nota=float(input("digite sua nota "))
-
-if nota > 10:
-    print("você digitou um número maior que 10,Tente novamente")
-    
-elif nota >= 9:
+   
+if nota >= 9:
     print("você tirou nota A")
     
 elif nota >= 7.5:
