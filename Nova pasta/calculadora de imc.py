@@ -9,7 +9,7 @@ elif imc >= 18.5 and imc < 25:
     print("seu peso está normal seu IMC é",imc)
     
 elif imc >= 25.0 and imc < 30:
-    print("você está com sobrepeso o seu IMC é",imc)
+    print("você está em sobrepeso o seu IMC é",imc)
     
 elif imc >= 30.0 and imc < 35:
     print("você está obeso grau 1 seu IMC é",imc)
