@@ -1,4 +1,4 @@
-ano=int(input("digigte um ano "))
+ano=int(input("digite um ano "))
 
 if ano%4==0 and ano%100!=0:
     print(ano,"é um ano bissexto")
